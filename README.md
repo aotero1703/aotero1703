@@ -38,7 +38,7 @@ Actualmente formo parte del **Observatorio Nacional de Violencia contra las Muje
 
 ### 📫 ¡Conectemos!
 💼 [LinkedIn]([https://www.linkedin.com/in/alexandra-otero-flores/](https://www.linkedin.com/in/alexandra-otero-flores-31937214a/))  
-🐦 [X (Twitter)]([https://x.com/lesssflo](https://x.com/femrespondona))  
+🐦 [X (Twitter)]((https://x.com/femrespondona))  
 📬 [Correo](mailto:alexandra.oterof@gmail.com)  
 [![Power BI](https://github.com/DenverCoder1/readme-typing-svg/blob/main/demo-images/bar-chart.gif?raw=true)](https://app.powerbi.com/view?r=eyJrIjoiZDE4ZDg4MjAtNzRjMC00MGY5LTk3MjAtNGRhOTAxNDQ2NGNiIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9)
 **[Portafolio Power BI (Muestras de Tableros)](https://app.powerbi.com/view?r=eyJrIjoiZDE4ZDg4MjAtNzRjMC00MGY5LTk3MjAtNGRhOTAxNDQ2NGNiIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9)** *(opcional)*
@@ -47,7 +47,7 @@ Actualmente formo parte del **Observatorio Nacional de Violencia contra las Muje
 ---
 
 ### 📊 Actividad reciente
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lesflores&theme=react-dark&bg_color=0d1117&color=FF69B4&line=FF69B4&point=FFD700&area=true&hide_border=false)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aotero1703&theme=react-dark&bg_color=0d1117&color=FF69B4&line=FF69B4&point=FFD700&area=true&hide_border=false)
 
 ---
 
