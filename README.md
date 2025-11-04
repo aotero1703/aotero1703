@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alexandra Otero
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Economista+📈;Especialista+en+Evaluación+de+Políticas+Públicas+🏛️;Analista+de+Datos+para+la+Igualdad+de+Género+💜;#CódigoDeTodxs+👩‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Economista+📈;Especialista+en+Evaluación+de+Políticas+Públicas+🏛️;Especialista+de+Datos+para+la+Igualdad+de+Género+💜;#SiemprePorEllas+👩‍💻)](https://git.io/typing-svg)
 
 ---
 
