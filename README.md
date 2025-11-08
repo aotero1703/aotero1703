@@ -38,9 +38,6 @@ Mi trabajo combina **rigor técnico**, **gestión intersectorial** y una visión
 - 💜 **Observatorio de Acoso Político (Ley 31155)**  
   Indicadores trimestrales y tableros Power BI sobre feminicidios, violencia económica y acoso político.
 
-- 🏡 **Evaluación Línea Final PNVR – MVCS**  
-  Diseño de cuestionarios SurveyCTO, control de calidad y análisis de resultados.
-
 - 📈 **ENARES / ENDES / ENUT**  
   Construcción y validación de indicadores oficiales de violencia según metodologías del INEI.
 
