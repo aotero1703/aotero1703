@@ -80,7 +80,7 @@ Mi trabajo combina **rigor técnico**, **gestión intersectorial** y una visión
 
 ### 📊 Actividad reciente
 
-![GitHub Activity Graph](https://readme-readme-activity-graph.vercel.app/graph?username=aotero1703&theme=react-dark&bg_color=0d1117&color=FF69B4&line=FF69B4&point=FFD700&area=true&hide_border=false)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aotero1703&theme=default&bg_color=ffffff&color=FF69B4&line=FF69B4&point=FFD700&area=true&hide_border=false)
 
 ---
 
