@@ -76,9 +76,6 @@ Mi trabajo combina **rigor técnico**, **gestión intersectorial** y una visión
 
 - Licenciada en **Economía**  
 - Formación en **Evaluaciones de Impacto (DIME, J-PAL, BID)**  
-- Cursos en **Machine Learning**, **análisis de encuestas** y **género en políticas sociales**  
-- Postulación 2025 al **Government Analytics Fellowship – World Bank**
-
 ---
 
 ### 📊 Actividad reciente
