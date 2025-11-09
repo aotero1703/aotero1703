@@ -1,7 +1,5 @@
 <!-- 🌸 GitHub Profile README — Alexandra Otero Flores -->
-<div align="center">
-  <img src="https://i.imgur.com/xBfGgRJ.gif" width="100%" alt="Header GIF elegante de ondas rosadas y violetas">
-</div>
+
 
 <h1 align="center">Hola, soy <b>Alexandra Otero Flores</b></h1>
 <h3 align="center">Economista | Especialista Estadística | Evaluación de Políticas Públicas y Género</h3>
