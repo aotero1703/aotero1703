@@ -21,7 +21,7 @@
 ### 💡 Sobre mí
 
 Soy **economista** con experiencia en **evaluaciones de impacto, análisis estadístico y diseño de políticas públicas con enfoque de género**.  
-Actualmente me desempeño como **Especialista Estadística en el Ministerio de la Mujer y Poblaciones Vulnerables (MIMP)**, liderando productos estadísticos del **Observatorio Nacional de Violencia contra las Mujeres (Ley 30364)**.
+Actualmente me desempeño como **Especialista Estadística en el Ministerio de la Mujer y Poblaciones Vulnerables (MIMP)**, liderando la recopilación, procesamiento y difusión de datos estadísticos en violencia basada en género del **Observatorio Nacional de Violencia contra las Mujeres (Ley 30364)**.
 
 Mi trabajo combina **rigor técnico**, **gestión intersectorial** y una visión centrada en la **igualdad de género, la evidencia y la acción pública**.
 
