@@ -1,5 +1,5 @@
 <!-- 🌸 GitHub Profile README — Alexandra Otero Flores -->
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Les+Flores+🤠+;CódigoDeTodxs)](https://git.io/typing-svg)
 
 <h1 align="center">Hola, soy <b>Alexandra Otero Flores</b></h1>
 <h3 align="center">Economista | Especialista Estadística | Evaluación de Políticas Públicas y Género</h3>
