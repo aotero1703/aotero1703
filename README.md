@@ -43,7 +43,16 @@ Mi trabajo combina **rigor técnico**, **gestión intersectorial** y una visión
 ### 📊 Portafolio Power BI
 
 <div align="center">
-  <b><a href="https://app.powerbi.com/view?r=eyJrIjoiZDE4ZDg4MjAtNzRjMC00MGY5LTk3MjAtNGRhOTAxNDQ2NGNiIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9" target="_blank">Ver Tableros Power BI</a></b>
+  <table>
+    <tr>
+      <th>Temas</th>
+      <th>Enlace</th>
+    </tr>
+    <tr>
+      <td><b><a href="https://app.powerbi.com/view?r=eyJrIjoiZDE4ZDg4MjAtNzRjMC00MGY5LTk3MjAtNGRhOTAxNDQ2NGNiIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9" target="_blank">Ver Tableros Power BI</a></b></td>
+      <td><a href="https://app.powerbi.com/view?r=eyJrIjoiZDE4ZDg4MjAtNzRjMC00MGY5LTk3MjAtNGRhOTAxNDQ2NGNiIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9" target="_blank">Accede a los Tableros</a></td>
+    </tr>
+  </table>
 </div>
 
 ---
