@@ -2,7 +2,7 @@
 
 # Hi, I'm Alexandra Otero 👋
 
-### Economist · Data Science · Impact Evaluation · Public Policy
+### Economist · Data Analysis · Impact Evaluation · Public Policy
 
 *Transforming complex data into evidence for better public decisions.*
 
