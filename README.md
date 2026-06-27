@@ -53,7 +53,7 @@ My work focuses on transforming **administrative and survey data** into evidence
 
 ---
 
-## <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="28"> My Skill Set
+## <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="28"> My Skill Set
 
 * 💻 **Statistical Programming:** Stata, R, Python & Google Apps Script
 * 📋 **Survey Design & Data Collection:** SurveyCTO
@@ -104,45 +104,6 @@ https://app.powerbi.com/view?r=eyJrIjoiMzk4YjgxZDUtMzA4ZS00MThiLWE3YzEtNmE0ZjdjY
 
 ---
 
-## <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="28"> What You'll Find Here
-
-📊 **Impact Evaluation**
-
-* Regression Discontinuity Design (RDD)
-* Difference-in-Differences (DiD)
-* Propensity Score Matching (PSM)
-
-💻 **Data Science**
-
-* Statistical Programming
-* Administrative Data
-* Data Processing Pipelines
-* Data Quality
-
-📈 **Dashboards**
-
-* Power BI
-* R
-* Google Apps Script
-
-🎓 **Teaching**
-
-* Econometrics
-* Stata
-* Reproducible Research
-* Applied Data Analysis
-
----
-
-## <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="28"> GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true"/>
-
-</p>
 
 ---
 
