@@ -1,99 +1,86 @@
-<!-- 🌸 GitHub Profile README — Alexandra Otero Flores -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&size=26&pause=1000&color=FF69B4&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Alexandra+Otero+👩‍💻+;Transformo+datos+en+historias+que+generan+impacto+y+soluciones.)](https://git.io/typing-svg)
+# Hi, I'm Alexandra Otero 👋
 
-<h3 align="center">Economista | Especialista en Datos | Evaluación de Políticas Públicas y Género</h3>
+<h3 align="center">Economist | Data Science | Impact Evaluation | Public Policy</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandra-otero-flores-31937214a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Alexandra%20Otero%20Flores-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Alexandra%20Otero%20Flores-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:aleotero27@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-aleotero27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://x.com/femrespondona" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-femrespondona-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Email-aleotero27@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
 ---
 
-### 💡 Sobre mí
+## About me
 
-Soy **economista** con experiencia en **evaluaciones de impacto, análisis estadístico y diseño de políticas públicas con enfoque de género**.  
-Actualmente me desempeño como **Especialista Estadística en el Ministerio de la Mujer y Poblaciones Vulnerables (MIMP)**, liderando la recopilación, procesamiento y difusión de datos estadísticos en violencia basada en género del **Observatorio Nacional de Violencia contra las Mujeres (Ley 30364)**.
+I'm an economist passionate about transforming data into evidence that supports better public decisions.
 
-Mi trabajo combina **rigor técnico**, **gestión intersectorial** y una visión centrada en la **igualdad de género, la evidencia y la acción pública**.
+My work combines causal inference, statistical analysis and data engineering to design reproducible analytical workflows and generate actionable insights for governments and international organizations.
 
----
+My interests include:
 
-### 📍 Proyectos destacados
-
-- 🟣 **Observatorio Nacional de Violencia (Ley 30364)**  
-  Integración de registros administrativos (MININTER, MINJUS, MINSA, Ministerio Público y Poder Judicial).  
-  Elaboración de boletines, tableros trimestrales y planes de mejora de gestión del dato.
-
-- 💜 **Observatorio de Acoso Político (Ley 31155)**  
-  Indicadores trimestrales y tableros Power BI sobre feminicidios, violencia económica y acoso político.
-
-- 📈 **ENARES / ENDES / ENUT**  
-  Construcción y validación de indicadores oficiales de violencia según metodologías del INEI.
+* Impact Evaluation
+* Public Policy
+* Gender Analytics
+* Administrative Data Systems
+* Reproducible Research
+* Data Visualization
 
 ---
 
-### 📊 Portafolio Power BI
+## Selected Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <th>Temas</th>
-      <th>Enlace</th>
-    </tr>
-    <tr>
-      <td><b>Ver Tableros Power BI</b></td>
-      <td><a href="https://app.powerbi.com/view?r=eyJrIjoiZDE4ZDg4MjAtNzRjMC00MGY5LTk3MjAtNGRhOTAxNDQ2NGNiIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9" target="_blank">Accede a los Tableros</a></td>
-    </tr>
-  </table>
-</div>
+### National Observatory on Violence against Women
 
+Development of statistical indicators and integration of administrative records from multiple public institutions to monitor violence against women in Peru.
 
----
+### Public Policy Dashboards
 
-### 🧠 Habilidades técnicas
+Interactive Power BI dashboards for monitoring gender, social protection and public management indicators.
 
-| Área | Herramientas |
-|------|---------------|
-| **Análisis de datos** | Stata, R, Python, Power BI, Excel avanzado |
-| **Recolección de datos** | SurveyCTO, KoboToolbox, ODK, IPACheck |
-| **Gestión y monitoreo** | Power BI Service, Google Sheets, control de entregables |
-| **Documentación técnica** | Markdown, LaTeX, Word profesional |
-| **Comunicación** | Informes, boletines e infografías con enfoque de género |
+### Impact Evaluation
+
+Replication and implementation of experimental and quasi-experimental methods, including:
+
+* Propensity Score Matching
+* Difference-in-Differences
+* Regression Discontinuity
+* Instrumental Variables
 
 ---
 
-### 🌍 Intereses y enfoque
+## Technical Skills
 
-- Igualdad de género y empoderamiento económico  
-- Evidencia para decisiones públicas  
-- Diseño de observatorios y tableros de datos  
-- Evaluaciones experimentales y cuasi-experimentales  
-- Difusión accesible de resultados: <b>#DatosQuePrevienen</b>
-
----
-
-### 🎓 Formación y desarrollo
-
-- Licenciada en **Economía**  
-- Formación en **Evaluaciones de Impacto (DIME, J-PAL, BID)**  
+| Area                 | Tools                         |
+| -------------------- | ----------------------------- |
+| Statistical Analysis | Stata • R • Python            |
+| Data Visualization   | Power BI • Excel              |
+| Data Collection      | SurveyCTO • KoboToolbox • ODK |
+| Automation           | Google Apps Script • Python   |
+| Documentation        | LaTeX • Markdown • Git        |
 
 ---
 
-### 💬 Frase que me guía
+## Featured Dashboard
 
-> *"Los datos cuentan historias. La evidencia las transforma en acción."*  
-> — Alexandra Otero
+<p align="center">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiZTdiNmUwZGItN2QzOS00OTY0LWExYWMtZWE1MzlhMTg1MjFmIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9">
+Public Policy Dashboard (Power BI)
+</a>
+</p>
 
 ---
 
-<div align="center">
-  <p><i>Siempre buscando conectar evidencia, innovación y equidad</i></p>
-</div>
+## Currently Working On
+
+* Causal inference for policy evaluation
+* Administrative data quality
+* Statistical programming
+* Teaching econometrics and Stata
+* Data automation and reproducible workflows
+
+---
+
+> *"Transforming data into evidence for better public decisions."*
