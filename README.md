@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Alexandra! 👋 ¡Hola, soy Alexandra! 🇵🇪
+# Hi, I'm Alexandra! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
-### Economist | Government Analytics Fellow | Data Science | Impact Evaluation
+### Economist • Government Analytics Fellow • Data Science • Public Policy
 
 *Transforming data into evidence for better public decision-making.*
 
@@ -18,6 +18,7 @@
 <a href="https://x.com/femrespondona" target="_blank">
 <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
 </a>
+
 </p>
 
 </div>
@@ -28,24 +29,22 @@ Welcome to my GitHub!
 
 I'm an economist passionate about applying **data science, causal inference and statistical programming** to improve public policy.
 
-My work focuses on transforming complex administrative and survey data into reliable evidence for governments and development organizations. Here you'll find projects related to **impact evaluation, survey design, data visualization, public policy analytics and reproducible research**, with a particular interest in **development economics** and **gender equality**.
+My work focuses on transforming **administrative and survey data** into evidence that supports decision-making. Here you'll find projects on **impact evaluation, public policy, data science, survey design, dashboards and reproducible research**, with a particular interest in **development economics** and **gender equality**.
 
 ---
 
-# Little things about me
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="28"> A little about me
 
-* 📊 Economist specialized in impact evaluation, data science and evidence-based public policy.
-* 🏛 Currently working as a **Data Processing and Information Specialist** at RENIEC.
-* 🎓 Teaching Assistant in Econometrics (Stata) at the **Pontificia Universidad Católica del Perú (PUCP)**.
-* 🌍 **Government Analytics Fellow**, a World Bank initiative focused on strengthening data-driven decision-making in the public sector.
-* 💜 Previously worked at **Innovations for Poverty Action (IPA)** and the **Ministry of Women and Vulnerable Populations (MIMP)**.
-* 📋 Passionate about transforming administrative and survey data into evidence for better public decisions.
-* 🌎 Interested in development economics, gender equality, impact evaluation and data science.
-* 🌱 Always learning, building reproducible analytical workflows and exploring new technologies for social impact.
+* 🌍 Government Analytics Fellow — **World Bank Government Analytics Program**
+* 🏛 Data Processing & Information Specialist at **RENIEC**
+* 🎓 Teaching Assistant in Econometrics (Stata) at the **Pontificia Universidad Católica del Perú (PUCP)**
+* 💜 Former Research Analyst at **Innovations for Poverty Action (IPA)** and former specialist at the **Ministry of Women and Vulnerable Populations (MIMP)**
+* 📊 Passionate about transforming complex data into actionable evidence for public policy.
+* 🌱 Always learning and building reproducible analytical workflows.
 
 ---
 
-# Research & Professional Interests
+## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> Research & Professional Interests
 
 * Development Economics
 * Gender Equality & Women's Empowerment
@@ -54,91 +53,77 @@ My work focuses on transforming complex administrative and survey data into reli
 
 ---
 
-# Featured Projects
+## <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="28"> My Skill Set
 
-## Violence Against Women Indicators Dashboard
-
-Development of automated workflows in **R** to clean, validate and harmonize administrative records from multiple public institutions.
-
-The processed information was transformed into standardized indicators and visualized through an interactive **Power BI dashboard** supporting evidence-based public policy.
-
-**Tools:** R · Power BI · Excel
-
-🔗 https://app.powerbi.com/view?r=eyJrIjoiZTdiNmUwZGItN2QzOS00OTY0LWExYWMtZWE1MzlhMTg1MjFmIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9
+* 💻 **Statistical Programming:** Stata, R, Python & Google Apps Script
+* 📋 **Survey Design & Data Collection:** SurveyCTO
+* 📊 **Data Visualization:** Power BI
+* 📄 **Research & Documentation:** LaTeX
 
 ---
 
-## Political Harassment Observatory Dashboard
+## <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="28"> Featured Projects
 
-Designed reproducible data pipelines in **R** to process, standardize and integrate administrative records from multiple institutional sources.
+### 📊 Violence Against Women Indicators Dashboard
 
-The resulting datasets were used to build an interactive **Power BI dashboard** for monitoring political harassment against women.
+Designed reproducible workflows in **R** to clean, validate and harmonize administrative records from multiple public institutions.
 
-**Tools:** R · Power BI · Excel
+The processed information was transformed into standardized indicators and visualized through an interactive **Power BI dashboard** to support evidence-based public policy.
 
-🔗 https://app.powerbi.com/view?r=eyJrIjoiMzk4YjgxZDUtMzA4ZS00MThiLWE3YzEtNmE0ZjdjYjEzZTJjIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9
-
----
-
-# Tools & Technologies
-
-### Statistical Programming
-
-<p>
-<img src="https://img.shields.io/badge/Stata-1F5AA6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white"/>
-</p>
-
-### Survey Design & Data Collection
-
-<p>
-<img src="https://img.shields.io/badge/SurveyCTO-4A90E2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/KoboToolbox-2F80ED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ODK-009688?style=for-the-badge"/>
-</p>
-
-### Data Analysis & Visualization
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-### Research & Documentation
-
-<p>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+🔗 **Dashboard:**
+https://app.powerbi.com/view?r=eyJrIjoiZTdiNmUwZGItN2QzOS00OTY0LWExYWMtZWE1MzlhMTg1MjFmIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9
 
 ---
 
-# What you'll find here
+### 🗳️ Political Harassment Observatory Dashboard
+
+Developed reproducible data pipelines in **R** to process, standardize and integrate administrative records used to monitor political harassment against women.
+
+The resulting datasets feed an interactive **Power BI dashboard** that supports monitoring and decision-making.
+
+🔗 **Dashboard:**
+https://app.powerbi.com/view?r=eyJrIjoiMzk4YjgxZDUtMzA4ZS00MThiLWE3YzEtNmE0ZjdjYjEzZTJjIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9
+
+---
+
+## <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="28"> Professional Activities
+
+* 🌍 **Government Analytics Fellow** — World Bank Government Analytics Program.
+* 🎓 **Teaching Assistant** — Econometrics (Stata), PUCP.
+* 🤝 **Co-founder** — Women in Economics Peru.
+* 💜 **Content Team Volunteer** — Hacedoras.
+
+---
+
+## <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="28"> Current Focus
+
+* 📈 Applying data science to improve public policy.
+* 🏛 Developing dashboards and analytical tools for government institutions.
+* 📚 Teaching econometrics and statistical programming.
+* 🔬 Expanding my knowledge in machine learning and causal inference.
+
+---
+
+## <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="28"> What You'll Find Here
 
 📊 **Impact Evaluation**
 
 * Regression Discontinuity Design (RDD)
 * Difference-in-Differences (DiD)
 * Propensity Score Matching (PSM)
-* Experimental Evaluations
 
 💻 **Data Science**
 
 * Statistical Programming
-* Data Processing Pipelines
 * Administrative Data
-* Data Quality Automation
+* Data Processing Pipelines
+* Data Quality
 
 📈 **Dashboards**
 
 * Power BI
 * R
 * Google Apps Script
-* Public Policy Analytics
 
 🎓 **Teaching**
 
@@ -149,19 +134,34 @@ The resulting datasets were used to build an interactive **Power BI dashboard** 
 
 ---
 
-# Currently Learning
+## <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="28"> GitHub Stats
 
-* Machine Learning for Public Policy
-* Advanced Python
-* Geospatial Analytics
-* Reproducible Data Pipelines
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true"/>
+
+</p>
 
 ---
 
+## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="28"> Let's Connect
+
+I'm always happy to connect with people interested in **development economics, impact evaluation, public policy and data science**.
+
+Feel free to reach out or explore my repositories!
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/alexandra-otero-flores-31937214a/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
 <div align="center">
 
-### Thanks for visiting!
-
-Feel free to explore my repositories or connect with me on LinkedIn.
+*"Turning data into evidence that improves people's lives."* 💙
 
 </div>
