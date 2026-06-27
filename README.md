@@ -1,6 +1,6 @@
 # Hi, I'm Alexandra Otero 
 
-<h3 align="center">Economist | Data Science | Impact Evaluation | Public Policy</h3>
+<h3 align="center">Economist | Data Analysis | Impact Evaluation | Public Policy</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandra-otero-flores-31937214a/" target="_blank">
