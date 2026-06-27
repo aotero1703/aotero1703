@@ -1,4 +1,4 @@
-# Hi, I'm Alexandra Otero 👋
+# Hi, I'm Alexandra Otero 
 
 <h3 align="center">Economist | Data Science | Impact Evaluation | Public Policy</h3>
 
