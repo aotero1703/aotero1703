@@ -88,20 +88,6 @@ https://app.powerbi.com/view?r=eyJrIjoiMzk4YjgxZDUtMzA4ZS00MThiLWE3YzEtNmE0ZjdjY
 
 This GitHub brings together projects at the intersection of **economics, data science and public policy**. Most repositories focus on **impact evaluation, statistical programming, administrative data systems, survey design, interactive dashboards and teaching materials**, with an emphasis on reproducible research and evidence-based decision-making.
 
----
-
-## <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="26"> GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true"/>
-
-</p>
-
----
-
 ## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="26"> Let's Connect
 
 I'm always happy to connect with researchers, practitioners and students interested in **development economics, impact evaluation, public policy and data science**.
