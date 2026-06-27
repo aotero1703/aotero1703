@@ -38,7 +38,7 @@ My work focuses on transforming **administrative and survey data** into evidence
 * 🌍 Government Analytics Fellow — **World Bank Government Analytics Program**
 * 🏛 Data Processing & Information Specialist at **RENIEC**
 * 🎓 Teaching Assistant in Econometrics (Stata) at the **Pontificia Universidad Católica del Perú (PUCP)**
-* 💜 Former Research Analyst at **Innovations for Poverty Action (IPA)** and former specialist at the **Ministry of Women and Vulnerable Populations (MIMP)**
+* 💜 Previously worked at **Innovations for Poverty Action (IPA)**, the **Ministry of of Housing, Construction and Sanitation** and the **Ministry of Women and Vulnerable Populations (MIMP)**.
 * 📊 Passionate about transforming complex data into actionable evidence for public policy.
 * 🌱 Always learning and building reproducible analytical workflows.
 
