@@ -26,51 +26,47 @@ I'm an economist passionate about applying **data science**, **causal inference*
 
 My work focuses on designing reproducible analytical workflows that transform administrative and survey data into reliable evidence for decision-making. I enjoy bridging economics, programming and public management through data engineering, statistical analysis and interactive visualization.
 
-### Areas of Interest
+## Research & Professional Interests
 
-* Impact Evaluation
-* Causal Inference
-* Public Policy Analytics
-* Gender Statistics
-* Administrative Data Systems
-* Data Engineering
-* Reproducible Research
-* Open Science
-
+- Development Economics
+- Impact Evaluation & Causal Inference
+- Data Science for Public Policy
+- Gender Equality & Women's Empowerment
 ---
 
-## Technical Skills
+## Tools & Technologies
 
 ### Statistical Programming
 
 <p>
+  <img src="https://img.shields.io/badge/Stata-1F5AA6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Stata-1F5AA6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+### Survey Design & Data Collection
 
+<p>
+  <img src="https://img.shields.io/badge/SurveyCTO-4A90E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KoboToolbox-2F80ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ODK-009688?style=for-the-badge"/>
 </p>
 
 ### Data Visualization
 
 <p>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-### Tools
+### Research & Documentation
 
 <p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex"/>
-<img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SurveyCTO-4A90E2?style=for-the-badge"/>
-
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
