@@ -1,158 +1,167 @@
 <div align="center">
 
-# Hi, I'm Alexandra Otero 👋
+# Hi, I'm Alexandra! 👋 ¡Hola, soy Alexandra! 🇵🇪
 
-### Economist · Data Analysis · Impact Evaluation · Public Policy
+### Economist | Government Analytics Fellow | Data Science | Impact Evaluation
 
-*Transforming complex data into evidence for better public decisions.*
+*Transforming data into evidence for better public decision-making.*
 
-<br>
-
+<p align="center">
 <a href="https://www.linkedin.com/in/alexandra-otero-flores-31937214a/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:aleotero27@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
+<a href="mailto:oterof.alexandra@pucp.edu.pe">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://x.com/femrespondona" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+Welcome to my GitHub!
 
-I'm an economist passionate about applying **data science**, **causal inference** and **statistical programming** to improve public policy.
+I'm an economist passionate about applying **data science, causal inference and statistical programming** to improve public policy.
 
-My work focuses on designing reproducible analytical workflows that transform administrative and survey data into reliable evidence for decision-making. I enjoy bridging economics, programming and public management through data engineering, statistical analysis and interactive visualization.
+My work focuses on transforming complex administrative and survey data into reliable evidence for governments and development organizations. Here you'll find projects related to **impact evaluation, survey design, data visualization, public policy analytics and reproducible research**, with a particular interest in **development economics** and **gender equality**.
 
-## Research & Professional Interests
-
-- Development Economics
-- Impact Evaluation & Causal Inference
-- Data Science for Public Policy
-- Gender Equality & Women's Empowerment
 ---
 
-## Tools & Technologies
+# Little things about me
 
-### Statistical Programming
+* 📊 Economist specialized in impact evaluation, data science and evidence-based public policy.
+* 🏛 Currently working as a **Data Processing and Information Specialist** at RENIEC.
+* 🎓 Teaching Assistant in Econometrics (Stata) at the **Pontificia Universidad Católica del Perú (PUCP)**.
+* 🌍 **Government Analytics Fellow**, a World Bank initiative focused on strengthening data-driven decision-making in the public sector.
+* 💜 Previously worked at **Innovations for Poverty Action (IPA)** and the **Ministry of Women and Vulnerable Populations (MIMP)**.
+* 📋 Passionate about transforming administrative and survey data into evidence for better public decisions.
+* 🌎 Interested in development economics, gender equality, impact evaluation and data science.
+* 🌱 Always learning, building reproducible analytical workflows and exploring new technologies for social impact.
 
-<p>
-  <img src="https://img.shields.io/badge/Stata-1F5AA6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white"/>
-</p>
+---
 
-### Survey Design & Data Collection
+# Research & Professional Interests
 
-<p>
-  <img src="https://img.shields.io/badge/SurveyCTO-4A90E2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/KoboToolbox-2F80ED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ODK-009688?style=for-the-badge"/>
-</p>
-
-### Data Visualization
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-</p>
-
-### Research & Documentation
-
-<p>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+* Development Economics
+* Gender Equality & Women's Empowerment
+* Impact Evaluation & Causal Inference
+* Data Science for Public Policy
 
 ---
 
 # Featured Projects
 
-## Political Harassment Observatory Dashboard
-
-Designed and implemented a reproducible **R** workflow to process, validate and standardize administrative records from multiple institutional sources.
-
-The processed data was used to develop an interactive **Power BI dashboard** for monitoring political harassment against women and supporting evidence-based public policy.
-
-**Technologies**
-
-`R` · `Power BI` · `Excel`
-
-🔗 Dashboard
-
-https://app.powerbi.com/view?r=eyJrIjoiMzk4YjgxZDUtMzA4ZS00MThiLWE3YzEtNmE0ZjdjYjEzZTJjIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9
-
----
-
 ## Violence Against Women Indicators Dashboard
 
-Built automated data pipelines in **R** to clean, integrate and harmonize administrative records related to gender-based violence.
+Development of automated workflows in **R** to clean, validate and harmonize administrative records from multiple public institutions.
 
-Produced standardized statistical indicators and developed an interactive **Power BI dashboard** to facilitate evidence-based monitoring and policy analysis.
+The processed information was transformed into standardized indicators and visualized through an interactive **Power BI dashboard** supporting evidence-based public policy.
 
-**Technologies**
+**Tools:** R · Power BI · Excel
 
-`R` · `Power BI` · `Excel`
-
-🔗 Dashboard
-
-https://app.powerbi.com/view?r=eyJrIjoiZTdiNmUwZGItN2QzOS00OTY0LWExYWMtZWE1MzlhMTg1MjFmIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9
+🔗 https://app.powerbi.com/view?r=eyJrIjoiZTdiNmUwZGItN2QzOS00OTY0LWExYWMtZWE1MzlhMTg1MjFmIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9
 
 ---
 
-# Research Interests
+## Political Harassment Observatory Dashboard
 
-* Regression Discontinuity Design
-* Difference-in-Differences
-* Propensity Score Matching
-* Instrumental Variables
-* Machine Learning for Public Policy
-* Administrative Data Quality
-* Gender Equality
-* Government Analytics
+Designed reproducible data pipelines in **R** to process, standardize and integrate administrative records from multiple institutional sources.
+
+The resulting datasets were used to build an interactive **Power BI dashboard** for monitoring political harassment against women.
+
+**Tools:** R · Power BI · Excel
+
+🔗 https://app.powerbi.com/view?r=eyJrIjoiMzk4YjgxZDUtMzA4ZS00MThiLWE3YzEtNmE0ZjdjYjEzZTJjIiwidCI6IjY4MTljNDYzLTVkZWItNDA3MC1hY2I2LTlmZGQzY2FhZTk4NCJ9
 
 ---
 
-# Teaching
+# Tools & Technologies
 
-I enjoy developing reproducible teaching materials in:
+### Statistical Programming
+
+<p>
+<img src="https://img.shields.io/badge/Stata-1F5AA6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=googleappsscript&logoColor=white"/>
+</p>
+
+### Survey Design & Data Collection
+
+<p>
+<img src="https://img.shields.io/badge/SurveyCTO-4A90E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KoboToolbox-2F80ED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ODK-009688?style=for-the-badge"/>
+</p>
+
+### Data Analysis & Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+### Research & Documentation
+
+<p>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+# What you'll find here
+
+📊 **Impact Evaluation**
+
+* Regression Discontinuity Design (RDD)
+* Difference-in-Differences (DiD)
+* Propensity Score Matching (PSM)
+* Experimental Evaluations
+
+💻 **Data Science**
+
+* Statistical Programming
+* Data Processing Pipelines
+* Administrative Data
+* Data Quality Automation
+
+📈 **Dashboards**
+
+* Power BI
+* R
+* Google Apps Script
+* Public Policy Analytics
+
+🎓 **Teaching**
 
 * Econometrics
-* Causal Inference
 * Stata
-* R
-* Public Policy Evaluation
+* Reproducible Research
+* Applied Data Analysis
 
 ---
 
 # Currently Learning
 
-* Advanced Python for Data Science
-* Machine Learning for Causal Inference
+* Machine Learning for Public Policy
+* Advanced Python
 * Geospatial Analytics
 * Reproducible Data Pipelines
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true"/>
-
-</p>
-
----
-
 <div align="center">
 
-*"Turning data into evidence that improves people's lives."*
+### Thanks for visiting!
+
+Feel free to explore my repositories or connect with me on LinkedIn.
 
 </div>
